@@ -3,13 +3,13 @@
 	"id": "rubymod",
 	"version": "${version}",
 	"name": "Ruby Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a simple project for adding a Ruby item to the game.",
 	"authors": [
-		"Me!"
+		"PsySquatch"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/PsySquatch/Fabric_RubyMod-1.21"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/rubymod/icon.png",
